@@ -14,8 +14,8 @@ The server stub acts as a correspondent to the client stub.
 
 ####ScreenShots
 
-  * ![](/Capture1.jpg?raw=true "1")
+  * ![](/Capture1.JPG?raw=true "1")
   
-  * ![](/Capture2.jpg?raw=true "2")
+  * ![](/Capture2.JPG?raw=true "2")
   
-  * ![](/Capture3.jpg?raw=true "3")
+  * ![](/Capture3.JPG?raw=true "3")
